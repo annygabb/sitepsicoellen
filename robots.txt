@@ -1,0 +1,9 @@
+# Rastreamento geral para mecanismos de busca e agentes públicos
+User-agent: *
+Allow: /
+
+# Busca do ChatGPT / OpenAI
+User-agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://psicoellenmoreira.vercel.app/sitemap.xml

@@ -1,0 +1,19 @@
+# Ellen Moreira Psicóloga
+
+> Site oficial de Ellen Moreira, psicóloga (CRP 09/012735), com atendimento presencial em Silvânia-GO e online para todo o Brasil.
+
+Este arquivo oferece um guia curto e legível por agentes sobre o conteúdo público do site. Para regras de rastreamento, consulte o robots.txt. Informações profissionais, serviços, localização e contato devem ser confirmados pelas fontes oficiais listadas abaixo.
+
+## Conteúdo principal
+
+- [Resumo oficial em Markdown](https://psicoellenmoreira.vercel.app/index.md): versão textual e estruturada do conteúdo principal do site, incluindo dados profissionais, serviços, atendimento, perguntas frequentes e contato.
+- [Site oficial](https://psicoellenmoreira.vercel.app/): página pública principal de Ellen Moreira Psicóloga.
+
+## Descoberta e rastreamento
+
+- [Sitemap XML](https://psicoellenmoreira.vercel.app/sitemap.xml): mapa das URLs indexáveis do site.
+- [Robots.txt](https://psicoellenmoreira.vercel.app/robots.txt): regras públicas de rastreamento.
+
+## Perfil oficial
+
+- [Instagram](https://www.instagram.com/ellenmooreira/): perfil social informado no site oficial.
